@@ -1,0 +1,2 @@
+# firststudying
+python
